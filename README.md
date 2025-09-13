@@ -1,6 +1,11 @@
 # Next.js File Explorer Interview Task
 
 
+https://github.com/user-attachments/assets/9e99b2d2-1d50-4016-b967-993152235172
+
+<img width="1318" height="757" alt="Macbook-Air-localhost" src="https://github.com/user-attachments/assets/4798c9c5-d0fe-4d71-8666-23a012c79898" />
+
+
 ## 🛠️ Technologies Used
 ## 🛠️ Technologies Used
 
